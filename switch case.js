@@ -13,4 +13,5 @@ switch (c) {
    case 4:
       console.log("You chosed case 4!")
       break;
+   
 }

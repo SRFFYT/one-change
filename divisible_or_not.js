@@ -10,7 +10,7 @@
 
 let num = 10;
 
-if(num % 2 == 0 && num%3 == 0) {
+if(num % 2 === 0 && num%3 === 0) {
     console.log("Your number", num, "is divisible by both 2 and 3");
 }
 
